@@ -290,3 +290,4 @@ int main() {
 //while the steepest descent optimization seems to move the starting points closer to the global minimum,
 // the process may need further optimization in terms of parameters or algorithm choice to improve performance
 // and convergence speed.
+
