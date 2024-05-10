@@ -1,9 +1,10 @@
 # ninja log v5
-0	323	1714648178709052894	CMakeFiles/optimizationMethods.dir/main.cpp.o	7c6f2181ab93b6e4
-325	1123	1714648179512152130	optimizationMethods	bbccc0385b93082b
-5	422	1714648655197713682	CMakeFiles/optimizationMethods.dir/main.cpp.o	be838130bade177
-422	498	1714648655274425954	optimizationMethods	bbccc0385b93082b
-3	490	1714650884899370186	CMakeFiles/optimizationMethods.dir/main.cpp.o	be838130bade177
-491	527	1714650884937702184	optimizationMethods	bbccc0385b93082b
 3	349	1714651108648124824	CMakeFiles/optimizationMethods.dir/main.cpp.o	be838130bade177
 349	398	1714651108698962869	optimizationMethods	bbccc0385b93082b
+10	100	1715004791155443876	CMakeFiles/optimizationMethods.dir/main.cpp.o	be838130bade177
+12	1485	1715004792518840707	CMakeFiles/optimizationMethods.dir/ddd.cpp.o	e7f1f0f870a872fe
+1489	1622	1715004792677887404	optimizationMethods	789fde4a00523e6f
+5	934	1715004938316127898	CMakeFiles/optimizationMethods.dir/ddd.cpp.o	e7f1f0f870a872fe
+934	986	1715004938369836435	optimizationMethods	789fde4a00523e6f
+5	1321	1715005225073206367	CMakeFiles/optimizationMethods.dir/ddd.cpp.o	e7f1f0f870a872fe
+1321	1447	1715005225197729734	optimizationMethods	789fde4a00523e6f
