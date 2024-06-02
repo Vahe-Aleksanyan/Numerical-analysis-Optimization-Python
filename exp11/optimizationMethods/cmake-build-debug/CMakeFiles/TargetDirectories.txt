@@ -1,3 +1,0 @@
-/Users/vahealeksanyan/Desktop/projects/Numerical-analysis-Optimization-Python-C-/exp11/optimizationMethods/cmake-build-debug/CMakeFiles/optimizationMethods.dir
-/Users/vahealeksanyan/Desktop/projects/Numerical-analysis-Optimization-Python-C-/exp11/optimizationMethods/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/vahealeksanyan/Desktop/projects/Numerical-analysis-Optimization-Python-C-/exp11/optimizationMethods/cmake-build-debug/CMakeFiles/rebuild_cache.dir
